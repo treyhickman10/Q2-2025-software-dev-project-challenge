@@ -1,0 +1,12 @@
+div.navbar {
+	width: 100vw;
+	background-color: antiquewhite;
+	padding: 15px;
+	display: flex;
+}
+div.navbar > div {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
